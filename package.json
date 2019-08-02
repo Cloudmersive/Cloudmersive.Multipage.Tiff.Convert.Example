@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "cloudmersive-convert-api-client": "^2.0.2"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Cloudmersive/Cloudmersive.Multipage.Tiff.Convert.Example.git"
